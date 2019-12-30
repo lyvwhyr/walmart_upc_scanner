@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { hot } from "react-hot-loader/root";
-import logo from './logo.svg';
+
 import './App.css';
 
 class App extends Component {
@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+
           <p>
             Edit <code>src/App.js</code> and watch the magic happen!
           </p>
